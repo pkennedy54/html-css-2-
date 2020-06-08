@@ -1,0 +1,64 @@
+body {
+    
+      
+    padding: 25px;
+    background-color: black;
+;    
+}
+
+h1 {
+    font-size: 40px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    font-weight: bold;
+    font-family: Helvetica;
+    background-color:black;
+    
+}
+h3 { 
+    position: absolute; 
+    top: 45%;
+    font-family: helvetica;
+    font-weight: bold;
+
+    
+
+
+}
+.lower-button {
+    position: absolute;
+    top: 60%;
+    font-weight: bold;
+    font-family: Helvetica;
+    background-color: white;
+
+
+}
+.main-header{
+    height: 55px;
+    background-color: black;
+    color:white;
+    font-family:Helvetica;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    font-weight: bold;
+
+}
+.main-header nav {
+    backgorund-color: black;
+   display: flex;
+   justify-content: space-around;
+   width: 60%
+}
+
+section {
+color: white;
+width: 100%;
+font-family: Helvetica;
+ 
+
+
+}
+
